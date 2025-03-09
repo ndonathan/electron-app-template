@@ -1,23 +1,6 @@
-<h1 align="center"><img src="./docs/images/bullet.svg" width="19" /> Electron App</h1>
+<h1 align="center"><img src="./docs/images/bullet.svg" width="19" /> Electron App Template</h1>
 
-<p align="center">💅 An Electron app boilerplate with React v19, TypeScript v5, Tailwind v4, shadcn/ui, Electron Vite, Biome, <strong>GitHub Action releases</strong> and more.
-  <br/><br/>
-   <!-- GitHub -->
-  <a href="https://github.com/sponsors/daltonmenezes">
-    <img alt="github url" src="https://img.shields.io/badge/support%20on-github-1C1E26?style=for-the-badge&labelColor=1C1E26&color=F28BA9"/>
-  </a>
-  <!-- Patreon -->
-  <a href="https://www.patreon.com/daltonmenezes">
-    <img alt="patreon url" src="https://img.shields.io/badge/support%20on-patreon-1C1E26?style=for-the-badge&labelColor=1C1E26&color=B181F1"/>
-  </a>
-  <!-- Version -->
-  <a href="https://github.com/daltonmenezes/electron-app/releases">
-     <img alt="releases url" src="https://img.shields.io/github/v/release/daltonmenezes/electron-app?style=for-the-badge&labelColor=1C1E26&color=61ffca"/>
-  </a>  
-  <!-- License -->
-  <a href="https://github.com/daltonmenezes/electron-app/blob/main/LICENSE">
-    <img alt="license url" src="https://img.shields.io/badge/license%20-MIT-1C1E26?style=for-the-badge&labelColor=1C1E26&color=F28BA9"/>
-  </a>
+<p align="center">An Electron app boilerplate with React v19, TypeScript v5, Tailwind v4, shadcn/ui, Electron Vite, Biome, <strong>GitHub Action releases</strong> and more.
 </p>
 
 <p align="center">
@@ -60,7 +43,7 @@
 
 # <img src="./docs/images/bullet.svg" width="19" /> Installation
 ```bash
-npx degit daltonmenezes/electron-app/template project_name
+npx degit ndonathan/electron-app-template/template project_name
 ```
 ```bash
 cd project_name
@@ -134,17 +117,11 @@ The builded apps will be available in the `dist` folder.
   </tr>
 </table>
 
-# Contributing
-> **Note**: contributions are always welcome, but always **ask first**, — please — before work on a PR.
-
-That said, there's a bunch of ways you can contribute to this project, like by:
-
-- :beetle: Reporting a bug
-- :page_facing_up: Improving this documentation
-- :rotating_light: Sharing this project and recommending it to your friends
-- :dollar: Supporting this project on GitHub Sponsors or Patreon
-- :star2: Giving a star on this repository
 
 # License
 
-[MIT © Dalton Menezes](https://github.com/daltonmenezes/electron-app/blob/main/LICENSE)
+MIT
+
+# Attribution
+
+Based on [Dalton Menezes' Template](https://github.com/daltonmenezes/electron-app/)
